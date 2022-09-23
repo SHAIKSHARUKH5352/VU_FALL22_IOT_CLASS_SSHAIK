@@ -11,6 +11,7 @@ Next, I have setup environment variables to add to maven paths and then confirme
 process took a bit of time.Next I started the leshan server and then connected on to leshan demo by using the command UI: http://RPI_IPADDR:8080 
 (where RPI_IPADDR is the pi’s IP address). Lastly, I have used the command
 " java -jar leshan-client-demo/target/leshan-client-demo-*-SNAPSHOT-jar-with-dependencies.jar " in the command prompt, which added the dietpi to the leshan page.
+![image](
 
 
 
