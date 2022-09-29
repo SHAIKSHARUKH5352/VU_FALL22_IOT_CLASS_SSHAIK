@@ -120,7 +120,7 @@ int main( void )
     `sudo ./example`
     
    - Then the following output (of temperature and humidity values) is observed
-    ![image](Image_Directory/Analog_Reading.png)
+    ![image](Image_Directory/output.png)
    
 
 
