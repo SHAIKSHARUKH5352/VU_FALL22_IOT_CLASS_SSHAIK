@@ -1,14 +1,14 @@
-## Capturing the temperature and humidity sensor readings in raspberry pi using DTH-11 sensor
-In this tutorial, we capture the temperature and humidity readings in raspberry pi using DTH-11 sensor in dietpi.
+## Capturing the temperature and humidity sensor readings in raspberry pi using DHT-11 sensor
+In this tutorial, we capture the temperature and humidity readings in raspberry pi using DHT-11 sensor in dietpi.
 
 ## Components Used
 1.	Breadboard
 2.	Jump wires
 3.	Raspberry Pi
-4.	DTH-11 Sensor
+4.	DHT-11 Sensor
 
 ## Hardware
-- Connect the Raspberry Pi and DTH - 11 sensors as shown below 
+- Connect the Raspberry Pi and DHT - 11 sensors as shown below 
 
 
 
