@@ -10,6 +10,10 @@ In this tutorial, we capture the temperature and humidity readings in raspberry 
 ## Hardware
 - Connect the Raspberry Pi and DTH - 11 sensors as shown below 
 
+
+
+  ![image](Image_Directory/dth11_pi_connection.png)
+
  
 
 ## Process
@@ -35,6 +39,10 @@ In this tutorial, we capture the temperature and humidity readings in raspberry 
    `gcc -o example example.c -lwiringPi -lwiringPiDev`
    
     `sudo ./example`
+    
+   - Then the following output (of temperature and humidity values) is observed
+    ![image](Image_Directory/Analog_Reading.png)
+   
 
 
 
