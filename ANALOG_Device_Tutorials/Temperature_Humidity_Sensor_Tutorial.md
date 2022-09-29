@@ -9,6 +9,7 @@ In this tutorial, we capture the temperature and humidity readings in raspberry 
 
 ## Hardware
 - Connect the Raspberry Pi and DTH - 11 sensors as shown below 
+![image](dth11_pi_connection.png)
  
  
 
