@@ -13,4 +13,15 @@ In this experiment we will make a light LED "breathing" using C. The light inten
 
   The connections are made as shown below
   
+  
+  ![image](Image_Directory/breathe_conns.png)
+  
+ ## Procedure
+ 
+ -  First log on to the pi by typing the command (where IPADDR is the IP address of the pi) and then by typing in the password
+    
+    `ssh dietpi@IPADDR` 
+    
+  -  
+
 
