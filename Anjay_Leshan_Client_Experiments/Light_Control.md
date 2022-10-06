@@ -30,6 +30,8 @@ All the components are connected as shown in the below figure.
 
 - Next  navigate to light control options, enable the red light and entered the pin number.( I have used pin 27)
 
+![image](Image_Directory/pin.png)
+
 - Later build the code
 
   `cd ~/projects/Anjay-esp32-client`
