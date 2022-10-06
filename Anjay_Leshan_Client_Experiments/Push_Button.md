@@ -79,7 +79,7 @@ All the components are connected as shown in the below figure.
 - In the leshan server select the anjay client from the list
 
 - Later open the Push Button menu
- ![image](Image_Directory/pushbutton_ss.png)
+ ![image](Image_Directory/push_button_ss.png)
 
 
 
