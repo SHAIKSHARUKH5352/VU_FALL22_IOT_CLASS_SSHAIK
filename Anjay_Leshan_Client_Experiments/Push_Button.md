@@ -11,6 +11,7 @@ In this experiment we will observe the reading of number of times the pushed but
 
 ## Hardware
 All the components are connected as shown in the below figure.
+ ![image](Anjay_Leshan_Client_Experiments/pushbuttonsetup.png)
 
 ## Process
  - Log on to your dietpi by using the comamnd and then by typing in your password
