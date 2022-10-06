@@ -56,3 +56,5 @@ All the components are connected as shown in the below figure.
 
 - Here in this page, the status of the LED is displayed. You can go to write ‘w’ in On/Off and give Boolean values for the LED to turn it on or off. You can also set the dimmer by going to ‘w’ and give integer values ranging from 0 to 100.
 
+- The below is the video
+
