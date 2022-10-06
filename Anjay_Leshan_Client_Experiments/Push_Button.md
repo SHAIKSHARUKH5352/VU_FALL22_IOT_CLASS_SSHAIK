@@ -78,9 +78,12 @@ All the components are connected as shown in the below figure.
 
 - In the leshan server select the anjay client from the list
 
+  ![image](Image_Directory/leshan_anjay_ss.png)
+
 - Later open the Push Button menu
  ![image](Image_Directory/push_button_ss.png)
 
+- Here the 'Digital Input Counter' shows the number of times the button is clicked.
 
 
  
