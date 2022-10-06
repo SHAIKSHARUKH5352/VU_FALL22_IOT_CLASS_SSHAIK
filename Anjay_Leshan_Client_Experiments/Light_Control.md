@@ -28,7 +28,7 @@ All the components are connected as shown in the below figure.
 
 - Select light control and is enabled.
 
-- Next  navigate to light control options, enable the red light and entered the port number.( I have used 
+- Next  navigate to light control options, enable the red light and entered the pin number.( I have used pin 27)
 
 - Later build the code
 
