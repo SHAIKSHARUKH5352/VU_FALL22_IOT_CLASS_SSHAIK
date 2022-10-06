@@ -46,9 +46,9 @@ All the components are connected as shown in the below figure.
 
      ![image](Image_Directory/leshan_anjay_ss.png)
 
-- Later open the Push Button menu
-- 
- ![image](Image_Directory/push_button_ss.png)
+- Later open the Light Control menu
+ 
+ ![image](Image_Directory/light_leshan-ss.png)
 
-- Here the 'Digital Input Counter' shows the number of times the button is clicked.
+- Here in this page, the status of the LED is displayed. You can go to write ‘w’ in On/Off and give Boolean values for the LED to turn it on or off. You can also set the dimmer by going to ‘w’ and give integer values ranging from 0 to 100.
 
