@@ -12,6 +12,8 @@ In this experiment we will control LED light state.
 ## Hardware
 All the components are connected as shown in the below figure.
 
+![image](Image_Directory/lightcontrolsetup.png)
+
 ## Process
 - Open the menu config by typing in the following commands
 
