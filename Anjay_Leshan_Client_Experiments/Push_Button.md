@@ -73,9 +73,9 @@ All the components are connected as shown in the below figure.
 
    `idf.py -p 0 flash`
 
-In the leshan server select the anjay client from the list
+- In the leshan server select the anjay client from the list
 
-Later open the Push Button menu
+- Later open the Push Button menu
 
 
 
