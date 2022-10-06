@@ -14,6 +14,7 @@ All the components are connected as shown in the below figure.
 
 ![image](Image_Directory/lightcontrolsetup.png)
 
+![image](Image_Directory/lightcontrol_conn.png)
 ## Process
 - Open the menu config by typing in the following commands
 
