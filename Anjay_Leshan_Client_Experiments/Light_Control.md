@@ -58,3 +58,7 @@ All the components are connected as shown in the below figure.
 
 - The below is the video
 
+
+https://user-images.githubusercontent.com/112524594/194425745-81b10b96-6b74-474f-9ca0-40d65e952b99.mp4
+
+
