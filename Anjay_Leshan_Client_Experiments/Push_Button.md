@@ -14,6 +14,7 @@ All the components are connected as shown in the below figure.
 
 
  ![image](Image_Directory/pushbuttonsetup.png)
+ ![image](Image_Directory/pushbut.png)
 
 ## Process
  - Log on to your dietpi by using the comamnd and then by typing in your password
