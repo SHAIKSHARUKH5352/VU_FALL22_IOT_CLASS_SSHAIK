@@ -1,0 +1,3 @@
+## What is MQTT?
+
+MQTT (originally an initialism of MQ Telemetry Transport ) is a lightweight, publish-subscribe, machine to machine network protocol for Message queue/Message queuing service. It is designed for connections with remote locations that have devices with resource constraints or limited network bandwidth
