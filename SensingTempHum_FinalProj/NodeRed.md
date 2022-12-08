@@ -17,6 +17,8 @@ Node-Red is a flow based programming tool. Node-Red was mainly intended to creat
  npm install -g --unsafe-perm node-red
  
  Once installed, type "node-red" in the cmd to run the Node-Red
+ 
+ ![image](ImageDirectory/noderedrun.png)
 
 ## What is Node Red Dashboard?
 
