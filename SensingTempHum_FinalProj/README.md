@@ -33,7 +33,10 @@ https://user-images.githubusercontent.com/112524594/206805060-b8550231-6c87-45fc
 
 ## Circuit
 
- ![image](Image_Directory/noderedrun.png)
+ ![image](Image_Directory/circuit.png)
+ 
+ 
+ ref: https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-sensor-arduino-ide/
 
 
 
