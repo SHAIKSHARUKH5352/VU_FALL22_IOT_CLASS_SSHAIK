@@ -1,5 +1,5 @@
-'''
 
+```
 #include "DHT.h"
 #include <WiFi.h>
 extern "C" {
@@ -134,6 +134,6 @@ void loop() {
   }
 }
 
-'''
+```
 
 Ref: https://randomnerdtutorials.com/esp32-mqtt-publish-dht11-dht22-arduino/
