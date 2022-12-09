@@ -8,5 +8,16 @@ Install MySQL from the link ''' https://dev.mysql.com/downloads/installer/ '''
 
 You have to have Oracle account for MySQL installation.
 
+## Database Tables for the project
+```
+create database temp_hum;
+use temp_hum;
+create table temp( tmp FLOAT, date_recorded DATE, time_recorded TIME);
+create table humidity( hum NOT FLOAT, date_rec DATE, time_rec TIME);
+
+```
+
+
+
 
 
