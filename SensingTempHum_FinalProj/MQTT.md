@@ -29,6 +29,7 @@ For publishing an MQTT message on topic esp32/dht/temperature
     uint16_t packetIdPub1 = mqttClient.publish(MQTT_PUB_TEMP, 1, true, String(temp).c_str());       
     
  For  publishg an MQTT message on topic esp32/dht/humidity
+ 
     uint16_t packetIdPub2 = mqttClient.publish(MQTT_PUB_HUM, 1, true, String(hum).c_str());        
     
     
