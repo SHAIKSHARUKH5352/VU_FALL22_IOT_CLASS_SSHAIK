@@ -30,6 +30,7 @@ The below are the steps for installing the node red dashboard
 - Go to Manage Palette -> User Settings -> Install in Node - Red 
 - Search for “Node-Red-Dashboard”.
 - Click install.
+- After installing you can open it by typing in "localhost:1880/ui/" in your browser.
 
 ## Node Red Flow for Sensing Temperature and Humidity Proj.
 
