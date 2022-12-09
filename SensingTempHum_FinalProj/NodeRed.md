@@ -18,7 +18,7 @@ Node-Red is a flow based programming tool. Node-Red was mainly intended to creat
  
  Once installed, type "node-red" in the cmd to run the Node-Red
  
- ![image](ImageDirectory/noderedrun.png)
+ ![image](Image_Directory/noderedrun.png)
 
 ## What is Node Red Dashboard?
 
@@ -26,3 +26,25 @@ The node red dashboard is an add-on module that lets you create live dashboards.
 
 ## Installing Node Red Dashboard
 
+The below are the steps for installing the node red dashboard
+- Go to Manage Palette -> User Settings -> Install in Node - Red 
+- Search for “Node-Red-Dashboard”.
+- Click install.
+
+## Node Red Flow for Sensing Temperature and Humidity Proj.
+
+The below is the node-red flow the " Sensing Temperature and Humidity Project"
+ ![image](Image_Directory/noderedflow.png)
+ 
+ - esp32/dht/temperature is the mqtt topic corresponding to the temperature
+ - esp32/dht/humidity is the mqtt topic corresponding to the humidity
+ - The blue colored nodes "Temperature" and "Humidity" refer to the UI representation in the node red dashboard
+ - temp_hum is the database.
+ ## Node Red Dashboard - Sensing Temperature and Humidity
+ 
+  ![image](Image_Directory/nodereddash.png)
+  
+  In the above figure we can see the  real time values of temperature and humidity.
+
+
+ 
