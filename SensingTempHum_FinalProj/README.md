@@ -20,6 +20,10 @@ https://github.com/SHAIKSHARUKH5352/VU_FALL22_IOT_CLASS_SSHAIK/blob/main/Sensing
 
 https://github.com/SHAIKSHARUKH5352/VU_FALL22_IOT_CLASS_SSHAIK/blob/main/SensingTempHum_FinalProj/code.md
 
+- ppt
+
+
+
 ## Demo
 
 
