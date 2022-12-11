@@ -6,4 +6,4 @@
 - Change the wifi name and the password and then the network automatically disconnects.
 - Connect to the wifi (changed name) using the new password.
 - Finally connect to the home internet and "Success" message pops up!
- ![image](Image_Directory/routersetup.png)
+ ![image](Image_Directory/Router_Setup_Img.png)
