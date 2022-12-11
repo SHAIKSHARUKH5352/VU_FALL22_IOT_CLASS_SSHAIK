@@ -14,7 +14,6 @@
 - Start the leshan server and then connect to leshan demo by using the command UI:  ``` http://RPI_IPADDR:8080 ``` (where RPI_IPADDR is the pi’s IP address). 
 - Use the command ``` java -jar leshan-client-demo/target/leshan-client-demo-*-SNAPSHOT-jar-with-dependencies.jar ``` in the command prompt.
 -  You can see your dietpi in the leshan page.
--
 The below is the picture..dietpi's registration ID and registartion date are visible in the leshan page.
 ![image](leshan_client-ss.png)
 
