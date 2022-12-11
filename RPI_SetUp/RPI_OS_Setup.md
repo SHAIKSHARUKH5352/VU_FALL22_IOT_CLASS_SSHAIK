@@ -45,3 +45,6 @@ CONFIG_SERIAL_CONSOLE_ENABLE=1
 - Check if there are red and green lights that  flashing. 
 - After few minutes  you'll see the green light stops flashing. 
 - Now check if dietpi's wifi address is visible in the admin portal.
+
+
+ ![image](DietPi.noderedrun.png)
