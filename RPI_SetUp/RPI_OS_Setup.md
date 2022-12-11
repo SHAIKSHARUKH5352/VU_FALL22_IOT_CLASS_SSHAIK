@@ -38,7 +38,7 @@ CONFIG_SERIAL_CONSOLE_ENABLE=1
 
 - Lastly, eject the SD card from the laptop.
 - After all this process, start setting up Raspberry Pi. 
--
+
 ## Setting up RaspberryPi
 
 - Insert the sd card in the Raspberry Pi. 
