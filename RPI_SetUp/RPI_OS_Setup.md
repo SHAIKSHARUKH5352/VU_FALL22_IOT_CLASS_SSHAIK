@@ -6,6 +6,8 @@ I have done the following things during the class.
 -  In the balena etcher, insert SD card is inserted and select it as target. 
 -  If it was unable to detect the SD card ,  do it multiple times till you see the contents of the card.
 
+ ![image](Flash.png)
+
 ## Changes to dietpi.txt and dietpi-wifi.txt
 
 - Copy Dietpi.txt and Dietpi-Wifi.txt to a temporary directory.
