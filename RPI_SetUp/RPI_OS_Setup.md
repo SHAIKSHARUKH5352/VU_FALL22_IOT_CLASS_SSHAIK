@@ -47,4 +47,4 @@ CONFIG_SERIAL_CONSOLE_ENABLE=1
 - Now check if dietpi's wifi address is visible in the admin portal.
 
 
- ![image](DietPi.noderedrun.png)
+ ![image](DIetPI.png)
